@@ -2,6 +2,9 @@
 
 A Retrieval-Augmented Generation (RAG) backend powered by Django, OpenAI, and Pinecone.
 
+Demo: 
+https://drive.google.com/file/d/1R4EF_nLVTucyL1RzuvkIhDIDzntZXa1v/view?usp=sharing
+
 ---
 
 ## Table of Contents

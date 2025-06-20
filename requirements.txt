@@ -1,0 +1,9 @@
+Django>=4.2
+djangorestframework>=3.14
+openai>=1.14.2
+pinecone>=2.2
+PyPDF2>=3.0
+python-dotenv>=1.0
+numpy>=1.23
+drf-spectacular>=0.27.2
+drf-spectacular-sidecar>=2024.5.1 

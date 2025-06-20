@@ -83,7 +83,7 @@ class AskQuestionView(APIView):
 
 
 @extend_schema(
-    request=FileUploadSerializer,
+    request={'multipart/form-data': FileUploadSerializer},
     responses={200: MessageSerializer},
 )
 class UploadDocumentView(APIView):

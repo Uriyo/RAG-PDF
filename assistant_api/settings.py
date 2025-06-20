@@ -105,4 +105,5 @@ SPECTACULAR_SETTINGS = {
     "TITLE": "Knowledge Assistant API",
     "DESCRIPTION": "LLM-powered Knowledge Assistant with RAG",
     "VERSION": "1.0.0",
+    "COMPONENT_SPLIT_REQUEST": True,
 } 
